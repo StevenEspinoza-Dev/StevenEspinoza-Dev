@@ -1,30 +1,34 @@
- <h1 align="center">
-  ¡Hola!, soy Steven!!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://komarev.com/ghpvc/?username=StevenEspinoza-Dev&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />
-  <br/>
+<h1 align="center">
+ ¡Hi!, ¡I'am Steven!
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+ 
+<img src="https://komarev.com/ghpvc/?username=StevenEspinoza-Dev&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ProfileViews" />
+  
+<br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Full+Stack;Especialista+En+Lógica+De+Negocio;Freelancer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+engineer;Full+Stack+Developer;Freelancer;&center=true&width=380&height=45">
+  </a>
 </p>
 
-<img align="left" src="https://drive.usercontent.google.com/download?id=1qaON3jmWPZ3F13qpqlV1UVKS7SviNqFQ" alt="ProfilePicture" width="200" />
 <hr>
 
 ```
-¡Hola!, Mi nombre es Steven Espinoza.
+My name is Steven Espinoza.
 -------------------------
-💻 Soy un apasionado desarrollador Full-Stack.
-📚 Ingeniero de Sistemas.
-🌟 Lenguajes de programación principales: PHP (Laravel), JavaScript/TypeScript (React)
-🚩 Especialmente enfocado en desarrollo backend y diseño de lógica de negocios.
+💻 I am a passionate Full-Stack developer.
+📚 Systems engineer.
+🌟 Restful API Developer.
+🚩 Focused on custom software development.
 ```
 <hr>
 
 
-## 🛠️ Herramientas conocidas
+## 🛠️ My Favorite Tools
 
-### 👨‍💻 Lenguajes de programación
+### 👨‍💻 Programming Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -36,7 +40,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Frameworks y librerías
+### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"></a>
@@ -46,14 +50,14 @@
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 
 <p>
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-### 💻 Software más utilizados
+### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
@@ -65,15 +69,14 @@
 </p>
 
 ## Estadisticas de GitHub
+<!-- Estadísticas generales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevenEspinoza-Dev&show_icons=true&count_private=true&theme=radical)
 
+<!-- Lenguajes más usados -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenEspinoza-Dev&layout=compact&theme=radical)
 
-|                                                              Estadisticas Steven-Dev                                                                   |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Steven-Dev 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=StevenEspinoza-Dev&theme=react-dark&hide_border=true&area=true) |
-| ![Steven-Dev github stats](https://github-readme-stats.vercel.app/api?username=StevenEspinoza-Dev&show_icons=true&theme=algolia)              | 
-| ![Steven-Dev GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevenEspinoza-Dev&theme=algolia)                    | 
-    
+<!-- Racha de contribuciones -->
+![GitHub Streak](https://streak-stats.demolab.com?user=StevenEspinoza-Dev&theme=radical)
 
-|                                                                                                      Steven Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=StevenEspinoza-Dev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenEspinoza-Dev&langs_count=8&theme=algolia&layout=compact) |
+<!-- Gráfico de actividad -->
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=StevenEspinoza-Dev&theme=github-compact)
